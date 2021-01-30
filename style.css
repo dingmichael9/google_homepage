@@ -4,5 +4,18 @@
     margin: auto;
     display: block;
     position: relative;
-    top: 150px;
+    top: 115px;
+}
+
+#searchbar {
+    width: 50%; 
+    display: block;
+    margin: auto;
+    position: relative;
+    top: 145px;
+    font-size: 18px;
+    line-height: 40px;
+    border-radius: 20px;
+    border:1px solid #b8b8b8;
+    text-indent: 25px;
 }
